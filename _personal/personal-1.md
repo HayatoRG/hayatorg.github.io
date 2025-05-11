@@ -17,6 +17,7 @@ And honestly, I'm still suspicious about how far that’s gotten me.
 Outside of academia...
 ------
 Outside of research, I spend a considerable amount of time being not particularly good at a variety of things I enjoy:
+
   -Photography (Aviation, Scenery, rarely people)
   
   -Drums and Guitar
