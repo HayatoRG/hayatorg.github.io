@@ -15,6 +15,10 @@ Broadly, I am interested in the phonetics-phonology interface, multimodal intera
 
 Prior to joining Oxford LPP, I spent a year at National University of Singapore to complete a MSc in Statistics, and four years at the University of Virginia, where I received my undergraduate training in linguistics and applied statistics.
 
+And if you knew me in some past version:
+Welcome, sorry, and thank you.
+Part of me—and this page—is dedicated to you, too.
+
 Personal News
 ======
 [May 2025] Graduated from National University of Singapore!
