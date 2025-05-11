@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+show_publications: false
 ---
 
 {% if site.author.googlescholar %}
@@ -30,6 +31,13 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
+{% endif %}
+
+{% else %}
+  <div class="wordwrap">
+    <h2>Coming Soon</h2>
+    <p>The Publications section is currently under construction. Please check back later for updates.</p>
+  </div>
 {% endif %}
 
 
