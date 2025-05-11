@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! You've landed on Jiurui's academic page and welcome!
 
-My name is Jiurui Guo (郭久睿, /kwo⁵⁵ t͡ɕjou̯²¹⁴ ʐwei̯⁵¹/) I am an incoming DPhil student in Linguistics, Philology and Phonetics at the University of Oxford, geneoursly funded by the Clarendon Scholarship.
+My name is Jiurui Guo (郭久睿, / kwo⁵⁵ t͡ɕjou̯²¹⁴ ʐwei̯⁵¹ /) I am an incoming DPhil student in Linguistics, Philology and Phonetics at the University of Oxford, geneoursly funded by the Clarendon Scholarship.
 I am supervised by Prof. Elenor Payne and Dr. Anna Wilson. My research explores the alignment between prosody and gesture in spontaneous communication: the hidden choreography between movement and speech, the subtle ways it shapes (or fails to shape) meaning, and how such synchrony is developed during the acquisition of L2.
 Broadly, I am interested in the phonetics-phonology interface, multimodal interaction, language documentation, language death and revitalization, and Aviation English.
 
