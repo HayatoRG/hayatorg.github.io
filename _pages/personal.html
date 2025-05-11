@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Personal"
+permalink: /personal/
+author_profile: true
+---
+
+<!-- Introduction -->
+<div class="wordwrap">
+  <h2>Personal Section</h2>
+  <p>This is the Personal section where you can showcase personal content, notes, or any other type of post.</p>
+</div>
+
+<!-- Include base path -->
+{% include base_path %}
+
+<!-- Render personal collection items -->
+{% for post in site.personal reversed %}
+  {% include archive-single.html %}
+{% endfor %}
