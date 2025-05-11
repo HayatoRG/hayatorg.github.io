@@ -286,7 +286,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-    - scope:
+  # _personal
+  - scope:
       path: ""
       type: personal
     values:
