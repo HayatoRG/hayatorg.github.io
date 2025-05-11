@@ -16,14 +16,14 @@ Prior to joining Oxford LPP, I spent a year at National University of Singapore 
 
 And if you knew me in some past version:
 Welcome, sorry, and thank you.
-Part of me—and this page—is dedicated to you, too.
+Part of me — and this page — is dedicated to you, too.
 
 Research Interests
 ======
 
 **Multimodal Interaction**: Gesture and prosody, Development of Gesture
 
-**Experimental Phonetics and Phonetics-phonology Interface**: L3 Phonetics Perception and Reproduction of Sounds
+**Experimental Phonetics and Phonetics-phonology Interface**: Voice Onset Time, L3 Perception and Imitation.
 
 **Language Documentation and Revitalization**
 
