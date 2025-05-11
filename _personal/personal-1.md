@@ -18,8 +18,11 @@ Outside of academia...
 ------
 Outside of research, I spend a considerable amount of time being not particularly good at a variety of things I enjoy:
   -Photography (Aviation, Scenery, rarely people)
+  
   -Drums and Guitar
+  
   -Rhythm Games, both mobile and arcade
+  
   -Game localization
 
 Most of my interesta somehow trace back to rhythm and language, and I guess that's a sign :)
