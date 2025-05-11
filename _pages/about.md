@@ -20,17 +20,18 @@ Part of me—and this page—is dedicated to you, too.
 
 Research Interests
 ======
-# Multimodal Interaction: 
+
+**Multimodal Interaction**：
 Gesture and prosody, Development of Gesture
 
-# Experimental Phonetics, Phonology, and Phonetics-phonology Interface
+**Experimental Phonetics, Phonology, and Phonetics-phonology Interface**
 
-# Language Death and Revitalization:
+**Language Death and Revitalization**
 
-# Fieldworks:
+**Fieldworks**:
 Eastern Armenian
 
-# Machine Learning and Data Mining: 
+**Machine Learning and Data Mining**: 
 Natural Language Processing, Large Language Models, Recommender Systems
 
 
