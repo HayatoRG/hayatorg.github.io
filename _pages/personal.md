@@ -28,4 +28,4 @@ Outside of research, I spend a considerable amount of time being not particularl
   
   -Game localization
 
-Most of my interesta somehow trace back to rhythm and language, and I guess that's a sign :)
+Most of my interests somehow trace back to rhythm and language, and I guess that's a sign :)
