@@ -21,7 +21,10 @@ Part of me—and this page—is dedicated to you, too.
 
 Personal News
 ======
+
 [May 2025] Graduated from National University of Singapore!
+
 [Mar 2025] Received Clarendon Scholarship.
+
 [Feb 2025] Accepted to DPhil in Linguistics, Philology, and Phonetics, University of Oxford.
 
