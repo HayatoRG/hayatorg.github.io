@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The Unofficial Story"
+title: "Personal"
 permalink: /personal/
 author_profile: true
 ---
