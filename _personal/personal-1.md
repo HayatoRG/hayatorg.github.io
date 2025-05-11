@@ -1,7 +1,7 @@
 ---
 title: "The Unofficial Story"
 collection: personal
-permalink: /personal/
+permalink: /personal/personal-1.md
 ---
 
 The Unofficial "About Me"
