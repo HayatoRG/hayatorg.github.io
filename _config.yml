@@ -228,7 +228,7 @@ collections:
     permalink: /:collection/:path/
   personal:
     output: true
-    permalink: /personal/:path/
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -286,6 +286,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+    - scope:
+      path: ""
+      type: personal
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      read_time: true
 
 
 # Sass/SCSS
