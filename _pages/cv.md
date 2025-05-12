@@ -17,4 +17,5 @@ _Last updated: {{ site.time | date: "%Y-%m-%d" }}_
 ### CV of Failure:
 
 - [Download CV of Failure (PDF)](/files/cv-of-failure.pdf)
+
 _Last updated: {{ site.time | date: "%Y-%m-%d" }}_
