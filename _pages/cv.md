@@ -14,7 +14,7 @@ My academic CV is available for download as a PDF. Click the link below:
 _Last updated: {{ site.time | date: "%Y-%m-%d" }}_
 
 
-### CV of Failure:
+# CV of Failure:
 
 This is something I promised to do after I received my last rejection in 2024. 
 
