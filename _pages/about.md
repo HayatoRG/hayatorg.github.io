@@ -17,7 +17,6 @@ Prior to joining Oxford LPP, I spent a year at National University of Singapore 
 And if you knew me in some past version:
 
 Welcome, sorry, and thank you.
-
 Part of me — and this page — is dedicated to you, too.
 
 Research Interests
