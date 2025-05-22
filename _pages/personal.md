@@ -28,4 +28,8 @@ Outside of research, I spend a considerable amount of time being not particularl
   
   -Game Localization
 
+  -Writing random stuff on my WeChat Official Account
+
+  -Badminton, and watching F1
+
 Most of my interests somehow trace back to rhythm and language, and I guess that's a sign :)
