@@ -23,9 +23,9 @@ Part of me — and this page — is dedicated to you, too.
 Research Interests
 ======
 
-**Multimodal Interaction**: Gesture and prosody, Development of Gesture
+**Multimodal Interaction**: Gesture and prosody, Development of Gesture in L2
 
-**Experimental Phonetics and Phonetics-phonology Interface**: Voice Onset Time, L3 Perception and Imitation.
+**Experimental Phonetics and Phonetics-phonology Interface**: Voice Onset Time, L3 Perception and Imitation, English in Aviation
 
 **Language Documentation and Revitalization**
 
