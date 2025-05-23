@@ -24,8 +24,6 @@ Outside of research, I spend a considerable amount of time being not particularl
   
   -Drums and Guitar, and going to livehouse to listen to others play these instruments.
   
-  -Rhythm Games, both mobile and arcade
-  
   -Game Localization
 
   -Writing random stuff on my WeChat Official Account
